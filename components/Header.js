@@ -1,11 +1,11 @@
 
 const items = [
-    { icon: 'fab fa-youtube', link: 'https://youtube.com/UmutBayraktarYT' },
-    { icon: 'fab fa-twitch', link: 'https://twitch.com/umutyzx' },
-    { icon: 'fab fa-discord', link: 'https://discord.com/users/615029465726320654' },
-    { icon: 'fab fa-instagram', link: 'https://instagram.com/umutxyp' },
-    { icon: 'fab fa-facebook', link: 'https://facebook.com/umutxyp' },
-    { icon: 'fab fa-github', link: 'https://github.com/umutxyp' },
+    { icon: 'fab fa-youtube', link: 'https://www.youtube.com/channel/UCeRG7MNmVQPcW3XSKpDoaTg/featured' },
+    { icon: 'fab fa-twitch', link: 'https://twitch.com/stixtxc' },
+    { icon: 'fab fa-discord', link: 'https://discord.gg/GRkYArtwrk' },
+    { icon: 'fab fa-instagram', link: 'https://instagram.com/x' },
+    { icon: 'fab fa-facebook', link: 'https://facebook.com/x' },
+    { icon: 'fab fa-github', link: 'https://github.com/x' },
   ]
 
 const navItems = [
