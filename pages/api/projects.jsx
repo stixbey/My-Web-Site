@@ -2,27 +2,27 @@ export default async (req, res) => {
   const data = [
     {
       id: 1,
-      image: "https://media.discordapp.net/attachments/737348411568685066/954502826791428136/codeshare_logo.png",
-      name: "Code Shop",
+      image: "https://cdn.discordapp.com/attachments/974404943383511080/1010762500591063090/20220818_225138_0000-1.png",
+      name: "G Shop",
       description:
-        "Publish your own software or images for free or for a fee. Earn money.",
-      link: "https://codeshare.me",
+        "Botlarımız ile ilgili discorda gelmeyi unutmayın.",
+      link: "https://discord.gg/GRkYArtwrk",
     },
     {
       id: 2,
-      image: "https://media.discordapp.net/attachments/737348411568685066/999563078079361074/YT_AVATAR_NET.jpg",
+      image: "https://cdn.discordapp.com/attachments/974404943383511080/1010762500591063090/20220818_225138_0000-1.png",
       name: "Youtube",
       description:
-        "I am a professional editor and intermediate software developer. I have been professionally interested in community management and development for 5 years, I have high level knowledge and experience in areas such as community management and social media management. I post videos about discord on my youtube channel.",
-      link: "https://youtube.com/UmutBayraktarYT",
+        "hi I am a professional discord and Fivem and middleware developer. I have been professionally involved in community management and development for 2 years and have high-level knowledge and experience in areas such as community management and social media management. I share videos about Fivem on my youtube channel.",
+      link: "https://www.youtube.com/channel/UCeRG7MNmVQPcW3XSKpDoaTg/featured",
     },
      {
       id: 3,
-      image: "https://caoscrew.com/assets/images/team/KK.jpg",
-      name: "Caos Crew",
+      image: "https://cdn.discordapp.com/attachments/974404943383511080/1010765210384085114/gbot.png",
+      name: "Ghood",
       description:
-        "A magnificent and valuable nft collection of 8888 pieces.",
-      link: "https://caoscrew.com/",
+        "Ekip Discordumuza Herkesi Bekliyoruz.",
+      link: "https://discord.gg/NxWjyM8m3P",
     }
   ];
   res.status(200).json(data);
