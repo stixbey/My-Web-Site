@@ -2,7 +2,7 @@ export default async (req, res) => {
   const data = [
     {
       id: 1,
-      image: "https://cdn.discordapp.com/attachments/974404943383511080/1010766281529639023/gbot.jpg",
+      image: "https://cdn.discordapp.com/attachments/974404943383511080/1011066691238768721/PentagonePartner.png",
       name: "G Shop and Bot",
       description:
         "hi i am stix, i have been working on a project for a long time and i decided to bring this project to life. The Gbot system project is now waiting for everyone with you!",
@@ -18,7 +18,7 @@ export default async (req, res) => {
     },
      {
       id: 3,
-      image: "https://cdn.discordapp.com/attachments/974404943383511080/1010767468840620042/PentagoneRocket.png",
+      image: "https://cdn.discordapp.com/attachments/974404943383511080/1011066672209199124/PentagoneUser.png",
       name: "G Community",
       description:
         "Don't forget to join our community server!",
